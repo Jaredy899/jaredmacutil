@@ -7,7 +7,7 @@ A simple utility tool for macOS system management and application setup.
 ### Quick Install (Recommended)
 
 ```bash
-sh <(curl -fsSL https://raw.githubusercontent.com/Jaredy899/jaredmacutil/main/start.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Jaredy899/jaredmacutil/main/start.sh)
 ```
 
 ### Build from Source
