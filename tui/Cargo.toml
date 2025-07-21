@@ -25,7 +25,7 @@ rand = { version = "0.8.5", optional = true }
 macutil_core = { path = "../core" }
 tree-sitter-highlight = "0.24.4"
 tree-sitter-bash = "0.23.3"
-nix = { version = "0.29.0", features = [ "user" ] }
+nix = { version = "0.30.1", features = [ "user" ] }
 vt100-ctt = "0.16.0"
 
 [[bin]]
